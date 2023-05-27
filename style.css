@@ -1,0 +1,231 @@
+.card {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    
+
+}
+
+.card p {
+    margin-left: 20px;
+}
+.cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+    
+}
+
+
+.button {
+    background: green;
+    color: white;
+    border: none;
+    width: 130px;
+    height: 30px;
+    border-radius: 4px;
+    margin-top: 63px;
+}
+
+.card p {
+   margin-right: 20px;
+ 
+    
+}
+.tex_two {
+    width: 500px;
+}
+
+
+
+
+
+
+
+.wahid {
+    width: 600px;
+    text-align: center;
+    text-align: center;
+
+
+
+}
+
+/* 
+.wahid h1 {
+    width: 250px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    
+}
+
+.wahid p {
+ align-items: center;
+ display: flex;
+ margin-left: 50px;
+ 
+ 
+ 
+} */
+
+.content{
+    display: flex;
+    justify-content: center;
+
+}
+.main_content{
+    width: 90%;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.block1 p {
+    font-size: 10px;
+    margin: 20px;
+    justify-content: center;
+    
+
+}
+.block1 img{
+    border-radius: 10px;
+
+}
+.block1{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.section_seven h1 {
+    margin-left: 80px;
+}
+.section_seven  p {
+    margin-left: 80px;
+}
+
+.price {
+    display: flex;
+}
+
+.free {
+    text-align: center;
+}
+
+.order_now {
+    width: 130px;
+    height: 44px;
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 4px;
+
+}
+
+
+.section_eight {
+    padding: 0 75px;
+}
+.blox img {
+    margin: 0 20px;
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.p.teg {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.blox {
+    display: flex;
+}
+
+.imag_3 {
+    display: flex;
+}
+
+.section_nine {
+    padding: 0 75px;
+
+}
+.imag_3 img {
+    margin: 0 29px ;
+}
+
+
+.nine_h1 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.ten_foto img {
+    margin-top: 157px;
+}
+
+
+.ten_logo {
+    padding: 0 75px;
+}
+
+
+.ten-title {
+left: 153px;
+margin: 0 50px;
+
+}
+
+.footer_one {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo_footer {
+    padding: 10px 0 0 30px;
+}
+.logo-title{
+    display: flex;
+}
+
+
+
+.footer_one  {
+    margin-top: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
